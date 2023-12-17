@@ -12,3 +12,8 @@ This is a simple To-Do tracking browser app, created with HTMl/CSS/JS.
 -   Saving the data after refresh
 
 #### Screenshots:
+
+![initial state](https://github.com/kachamachkov/To-Do-App/blob/main/Images/SCR-20231217-lixz.png)
+![add task](https://github.com/kachamachkov/To-Do-App/blob/main/Images/SCR-20231217-ljey.png)
+![complete task](https://github.com/kachamachkov/To-Do-App/blob/main/Images/SCR-20231217-ljgk.png)
+![error](https://github.com/kachamachkov/To-Do-App/blob/main/Images/SCR-20231217-ljin.png)
